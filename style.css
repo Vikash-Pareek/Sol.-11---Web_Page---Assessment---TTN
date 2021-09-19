@@ -42,7 +42,7 @@ a {
 
 #content-group {
     background-color: aliceblue;
-    margin: 2rem 12rem;
+    margin: 2rem 12rem 0 12rem;
     padding: 2rem 2rem 3rem 2rem;
     display: flex;
     justify-content: center;
@@ -107,7 +107,7 @@ a {
 
 #footer-group {
     background-color: #000;
-    width: 960px;
+    width: 1104px;
     color: #d3d3d3;
     font-size: 0.8rem;
     padding: 0.2rem 1rem;
